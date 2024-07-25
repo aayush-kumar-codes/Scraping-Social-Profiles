@@ -1,1 +1,1 @@
-# Scraping-Social-Profiles-Python-Selenium
+# Scraping-Social-Profiles
